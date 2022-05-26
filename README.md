@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @persakiss
 - 👀 I’m interested in health, fitness, coding
-- 🌱 I’m currently learning javascript, react
+- 🌱 I’m currently working on javascript, react, pug, sass, node, express
 
 <!---
 persakiss/persakiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
