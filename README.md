@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @persakiss
 - 👀 I’m interested in health, fitness, coding
-- 🌱 I’m currently working with typescript, vite, react, rust, c
+- 🌱 I’m currently working with typescript, react, next, javascript, html, css, bash
 
 <!---
 persakiss/persakiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
