@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Top Langs](https://github-readme-stats-coral-eight-66.vercel.app/api/wakatime?username=persakiss) <!-- please update -->
+![Top Langs](https://github-readme-stats-coral-eight-66.vercel.app/api/wakatime?username=persakiss\&layout=compact) <!-- please update -->
